@@ -1,0 +1,7 @@
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\DockerMVC.exe
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\appsettings.Development.json
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\appsettings.json
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\DockerMVC.dll
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\DockerMVC.deps.json
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\DockerMVC.runtimeconfig.json
+C:\Users\z003y4mv\Desktop\kubernetes_training\DockerMVC\dist\DockerMVC.pdb
